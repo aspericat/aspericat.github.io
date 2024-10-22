@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aspericat.github.io/aspericat.txt.gz
+Sitemap: https://aspericat.github.io/app/aspericat.txt.gz
+Sitemap: https://aspericat.github.io/assets/aspericat.txt.gz
+Sitemap: https://aspericat.github.io/css/aspericat.txt.gz
+Sitemap: https://aspericat.github.io/includes/aspericat.txt.gz
+Sitemap: https://aspericat.github.io/item/aspericat.txt.gz
+Sitemap: https://aspericat.github.io/src/aspericat.txt.gz
